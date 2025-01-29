@@ -9,7 +9,7 @@ I am also fascinated by how humans live and how we design our food and shelter s
 ## Projects
 ## Education
 **Northeastern University, Boston, MA** &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  January 2025 − Present <br></br>
-M.S. Data Science &nbsp;  &nbsp;  &nbsp;  &nbsp;	&nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;	&nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;	&nbsp;  &nbsp;  &nbsp;  &nbsp; &nbsp;  &nbsp;   *Expected Graduation: May 2027*
+M.S. Data Science &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;	&nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;	&nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;	&nbsp;  &nbsp;  &nbsp;  &nbsp; &nbsp;  &nbsp;   *Expected Graduation: May 2027*
 <br></br>
 <br></br>
 **Virginia Commonwealth University, Richmond, VA** &nbsp;  &nbsp;  &nbsp;  &nbsp;  August 2023 − May 2024 <br></br>

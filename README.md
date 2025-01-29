@@ -8,7 +8,7 @@ I am also fascinated by how humans live and how we design our food and shelter s
 
 ## Projects
 ## Education
-**Northeastern University, Boston, MA** &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  January 2025 − Present <br></br>
+**Northeastern University, Boston, MA** &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  January 2025 − Present <br></br>
 M.S. Data Science &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;	&nbsp;  &nbsp;  &nbsp;	&nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;	&nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;	&nbsp;  &nbsp;  &nbsp;  &nbsp; &nbsp;  &nbsp;   *Expected Graduation: May 2027*
 <br></br>
 <br></br>
@@ -16,7 +16,7 @@ M.S. Data Science &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;	&nbsp;  &nbsp; 
 Non-degree seeking, Graduate-level coursework
 <br></br>
 <br></br>
-**Whitman College, Walla Walla, WA**	&nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  August 2018 − December 2022 <br></br>
+**Whitman College, Walla Walla, WA**	&nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  August 2018 − December 2022 <br></br>
 B.A. in Biology								    
 <br></br>
 <br></br>

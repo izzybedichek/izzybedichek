@@ -1,13 +1,13 @@
-### Hello!
+## Hello!
 
 ## My name is Izzy Bedichek
 
-# Interests
+## Interests
 My two main interests are animal ecology and sustainable resource allocation. I find herpetofauna especially interesting and want to use data science to aid wildlife conservation efforts. 
 I am also fascinated by how humans live and how we design our food and shelter systems. I would love to one day work to optimize cities and farms' resource usage. Additionally, I love to write, and want to combine data science and science writing to increase awareness in climate change issues.
 
-# Projects
-# Education
+## Projects
+## Education
 Northeastern University, Boston, MA 	        					 January 2025 − Present
 M.S. Data Science   						            Expected Graduation: May 2027
 
@@ -20,9 +20,9 @@ Whitman College, Walla Walla, WA					                August 2018 − December 20
 B.A. in Biology								    
     
 
-# How to reach me:
-# Pronouns
-# Fun fact
+## How to reach me:
+## Pronouns
+## Fun fact
 
 
 

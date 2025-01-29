@@ -16,7 +16,7 @@ M.S. Data Science &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;	&nbsp;  &nbsp; 
 Non-degree seeking, Graduate-level coursework
 <br></br>
 <br></br>
-**Whitman College, Walla Walla, WA**	&nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  August 2018 − December 2022 <br></br>
+**Whitman College, Walla Walla, WA**	&nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  August 2018 − December 2022 <br></br>
 B.A. in Biology								    
 <br></br>
 <br></br>

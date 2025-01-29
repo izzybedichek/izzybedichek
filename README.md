@@ -8,7 +8,7 @@ I am also fascinated by how humans live and how we design our food and shelter s
 
 ## Projects
 ## Education
-Northeastern University, Boston, MA 	        					 January 2025 − Present
+Northeastern University, Boston, MA 	        					 January 2025 − Present <br></br>
 M.S. Data Science   						            Expected Graduation: May 2027
 
 

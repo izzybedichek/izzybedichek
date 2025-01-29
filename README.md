@@ -7,6 +7,8 @@ My two main interests are animal ecology and sustainable resource allocation. I 
 I am also fascinated by how humans live and how we design our food and shelter systems. I would love to one day work to optimize cities and farms' resource usage. Additionally, I love to write, and want to combine data science and science writing to increase awareness in climate change issues.
 
 ## Projects
+The projects I am most proud of on my github are 
+
 ## Education
 **Northeastern University, Boston, MA** &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  January 2025 − Present <br></br>
 M.S. Data Science &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;	&nbsp;  &nbsp;  &nbsp;	&nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;	&nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;	&nbsp;  &nbsp;  &nbsp;  &nbsp; &nbsp;  &nbsp;   *Expected Graduation: May 2027*
@@ -22,8 +24,15 @@ B.A. in Biology
 <br></br>
 
 ## How to reach me:
+email: bedichek.i@northeastern.edu
+LinkedIn: 
+
 ## Pronouns
+She/His/Theirs
+<br>
+</br>
 ## Fun fact
+I fostered cats for 5 of the 12 previous months!
 
 
 

@@ -1,6 +1,4 @@
-## Hello!
-
-## My name is Izzy Bedichek
+## Hello! My name is Izzy Bedichek
 <br></br>
 
 ## Interests

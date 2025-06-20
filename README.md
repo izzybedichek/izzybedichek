@@ -27,7 +27,7 @@ B.A. in Biology
 
 ## How to reach me:
 email: bedichek.i@northeastern.edu <br></br>
-LinkedIn: 
+LinkedIn: [Izzy Bedichek](https://www.linkedin.com/in/isabelle-bedichek-b91696204/)
 <br></br>
 
 ## Pronouns

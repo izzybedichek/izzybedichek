@@ -1,7 +1,7 @@
 ## Hello! My name is Izzy Bedichek
 
 ## Interests
-I am fascinated by how humans live and how we design our food and shelter systems. I would love to one day work in optimizing resource usage (e.g. space, energy, or water). Additionally, I love to write, and want to combine data science and science writing to improve the available knowledge base for those curious about machine learning.
+I love reading and writing poetry, board games, knitting, hiking, camping, cat enrichment, Stardew, Civ6, and much more! Currently, my mini-quest is trying to Yelp more in an effort to curate a robust variety of tried-and-true restaurant options.
 <br></br>
 
 ## Education
@@ -27,7 +27,7 @@ She/His/Theirs
 <br></br>
 
 ## Fun fact
-I fostered cats for 5 of the 12 previous months!
+I have a signed copy of the board game Daybreak!
 
 
 

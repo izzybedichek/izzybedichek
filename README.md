@@ -1,7 +1,7 @@
 ## Hello! My name is Izzy Bedichek
 
 ## Interests
-I love reading and writing poetry, board games, knitting, hiking, camping, cat enrichment, Stardew, Civ6, and much more! Currently, my mini-quest is trying to Yelp more in an effort to curate a robust variety of tried-and-true restaurant options.
+I love reading and writing poetry, board games, knitting, hiking, camping, cat enrichment, Stardew, Civ6, and much more!
 <br></br>
 
 ## Education
